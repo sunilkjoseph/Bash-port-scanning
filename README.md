@@ -16,14 +16,11 @@ This is a simple Bash script for port scanning. It scans a specified range of po
 
 You can install Netcat with the following commands:
 
-
-# On Debian/Ubuntu
 ```bash
+# On Debian/Ubuntu
 sudo apt update && sudo apt install -y netcat
-```
 
 # On CentOS/RHEL
-```bash
 sudo yum install -y nc
 ```
 
